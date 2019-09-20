@@ -1,14 +1,18 @@
 # RESUME
-  **Yuliya Simonchyk**
-  **Contact info:**
+ **Yuliya Simonchyk**
+
+ **Contact info:**
+
   * :email: *<darki@tut.by>*,
   * :telephone_receiver: +375296731288
- **Summary**:My goal is to get and enrich knowledge of Front-end web development . Adapt my knowledge to real life project to get a work in this field. To do this is very important for me as I want to change my life.
+
+ **Summary**:My goal is to get and enrich knowledge of Front-end web development . Adapt my knowledge to real life project to get a work in this field. 
  >“I am such a person that if you ask me a question for which I do not know the answer, I will answer that I do not know. But, believe me, I know how to find it, this answer, and I will find it. Isn't that the main thing?”
  *The Pursuit of Happiness* (https://www.adme.ru/tvorchestvo-kino/15-vdohnovlyayuschih-citat-iz-filma-v-pogone-za-schastem-1045160/)
 
-**Skills**: basic knowledge in Pascal and Java programming, also also started training in front-end programming.
-**Code examples**:
+ **Skills**: basic knowledge in Pascal and Java programming, also also started training in front-end programming.
+
+ **Code examples**:
 ```javascript
 //Flower sort inheritance//
 package  flowerGirl;
@@ -127,5 +131,5 @@ return  a;
 - Java book self-study
 
 
- **English**: studied English at a English specialized school, then at courses International house level upper- intermediate and received a certificate *FCE*
+ **English**: studied English at a English specialized school, then at courses International house level upper- intermediate and received a certificate *FCE*[https://www.ih.by/mezhdunarodnye-ekzameny/cambridge/fce/]
 
