@@ -1,0 +1,112 @@
+.wrapper{
+  margin-left: 0%;
+  height: 300vh;
+  width: 100vw;
+  background: url(./images/fonts/IMG_3644.png);
+  background-repeat:  no-repeat;
+    }
+  h1{ 
+   font-family: 'Montserrat';
+   margin: 0em 2em -4em 2em;
+   font-style: normal;
+   font-weight: 700;
+   color: #FFFFFF;
+   text-transform: uppercase; 
+   text-shadow: 0 0 18px #000000;
+ }
+ h2 { 
+   width: 100px;
+   height: 38px;
+   margin: 6em 0em -6em 4em;
+   font-family: 'Montserrat';
+   font-style: normal;
+   color:   #DEB887;
+   text-shadow: 1px 3px 14px #000000;
+   }
+  h3 {
+    width: 100px;
+    height: 0em;
+    margin: 2em 4em 2em 4em;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    color:  #FFFFFF;
+    text-shadow: 1px 3px 14px #000000;
+      }
+  h6 {
+    height: 0em;
+    margin: -26em 0em 7em 59em;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    color: 	#E9967A;
+    float: left;
+     text-shadow: 1px 3px 14px #000000;
+    
+  }
+
+ .photo {
+     width: 100px;
+    height: 200px;
+    margin-top: -14px;
+  }
+.navbar{
+   margin-top: -8px;
+   margin-right: 348px;
+}
+.navbar ul{
+  display: flex;
+   width: 220px;
+   justify-content: space-between;
+   font-family: 'Montserrat';
+   font-style: normal;
+    font-weight: 900;
+  }
+.navbar ul li a {
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 41px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    align-items: center;
+     }
+.header{
+ display: flex;
+ height: 120;}
+ .main{
+   display: flex;
+   justify-content: center;
+  font-style: normal;
+  font-weight: 700;
+  margin: 0em 1em -2em -36em;
+  color: #FFFFFF;
+  box-shadow: 0em 1em 3em 0em #000000;;
+}
+
+.main1{
+ display: flex;
+ justify-content: center;
+  margin:0em 19em -2em -36em;
+ font-style: normal;
+ font-weight: 700;
+ color: #FFFFFF;
+ box-shadow: 0em 1em 3em 0em #000000;;
+}
+
+@media (max-width: 1024px) {
+  .main{
+      display: none;
+  }
+  h3 {
+    display: none;
+   }
+  h6 {
+      display: none;
+  }
+    
+}
+  
+
+
